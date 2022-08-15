@@ -7,7 +7,7 @@
 	<meta charset="utf-8">
 	<title>Morocco Sailing</title>
 	<meta name="description" content="J'aime vous presenter des petite information sur le sport de voile,les bateaux utiliser, les clubs, les compitition ou Maroc, les moniteurs et mais un peut d'athelete.">
-	<meta name="author" content="http://www.morroccosailing.trust">
+	<meta name="author" content="http://www.morroccosailing.ga">
 	
     <!-- Mobile Specific Metas
 	================================================== -->
